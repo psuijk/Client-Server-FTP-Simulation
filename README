@@ -1,0 +1,12 @@
+//Author: Patrick Suijk
+makefile instructions:
+
+make - will compile client and server programs
+
+make client - compiles only the client
+
+make server - compiles only the server
+
+make project1.zip - zips the source code for both client and server as well as the makefile and this readme
+
+make clean - removes executables and zip
